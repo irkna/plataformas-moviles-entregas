@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+}
+em{
+    color: #933;
+}  
+p{
+    font-family: serif;
+   text-shadow: none;
+}
+p.fuente{
+    opacity: 100% ;
+    text-shadow: none;
+}
+p.importante em{
+    text-shadow: none;
+}
+p.novelas a{
+    text-shadow: none;
+}
+p.novelas a:hover{
+    text-shadow: none;
+}
+#primer-parrafo{
+    background-color: #cee;
+}
+a {
+    outline:1px solid #333
+}
